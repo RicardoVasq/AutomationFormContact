@@ -1,6 +1,7 @@
 #  Automatización del Formulario de Contacto – Elaniin
 
-Este proyecto contiene un test automatizado con Selenium que simula el flujo de usuario para ingresar al sitio de Elaniin, navegar a la sección **Contact Us**, completar el formulario con datos de prueba y validar el envío exitoso.
+Este proyecto contiene un test automatizado con Selenium que simula el flujo de usuario para ingresar al sitio de Elaniin,
+navegar a la sección **Contact Us**, completar el formulario con datos de prueba y validar el envío exitoso.
 
 ---
 
@@ -23,9 +24,9 @@ Este proyecto contiene un test automatizado con Selenium que simula el flujo de 
 
 - **Lenguaje:** Java 17+
 - **Framework de pruebas:** TestNG
-- **Automatización:** Selenium WebDriver 4.x
+- **Automatización:** Selenium WebDriver
 - **Gestión de drivers:** WebDriverManager
-- **Reporte de resultados:** Allure Report *(opcional)*
+- **Reporte de resultados:** Allure Report
 - **Build tool:** Maven
 
 ---
